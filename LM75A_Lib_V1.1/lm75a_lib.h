@@ -1,13 +1,13 @@
 /*******************************************************************************
 |==============================================================================|
-|	@author LIEK SOFTWARE TEAM                                                   |
+|   @author LIEK SOFTWARE TEAM                                                 |
 |           Gorkem Aktas                                                       |
 |           Fatih Yilmaz                                                       |
 |           Emir Danisman                                                      |
 |           Ozgur Karaaslan                                                    |
-|	@date 9 January 2021            	                                           |
-|	@documentedDate 28 March 2021                                                |
-|	@version 1.1                                                                 |
+|   @date 9 January 2021            	                                       |
+|   @documentedDate 28 March 2021                                              |
+|   @version 1.1                                                               |
 |   @brief  lm75a library                                                      |
 |==============================================================================|
 *******************************************************************************/
