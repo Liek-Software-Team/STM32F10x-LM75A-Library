@@ -11,7 +11,7 @@
 |   @brief  lm75a library                                                      |
 |==============================================================================|
 *******************************************************************************/
-#include "stm32f10x.h"                  // Device header
+#include "stm32f10x.h"                  // Device header.
 #include "stm32f10x_i2c.h"
 #include <stdio.h>
 #include "lm75a_lib.h"  
